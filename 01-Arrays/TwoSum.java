@@ -1,3 +1,13 @@
+/*
+ * Problem: LeetCode 1 - Two Sum
+ * Link: https://leetcode.com/problems/two-sum/
+ * Difficulty: Easy
+ * 
+ * Approach: Hash Map (One-pass)
+ * Time Complexity: O(N)
+ * Space Complexity: O(N)
+ */
+
 import java.util.HashMap;
 
 public class TwoSum {
