@@ -1,4 +1,4 @@
-public static int calPoints(String[] operations) {
+public static int BaseballGame(String[] operations) {
 
     Stack<Integer> stack = new Stack<>();
 
@@ -38,5 +38,5 @@ public static void main(String[] args) {
 
     String[] operations = {"5", "2", "C", "D", "+"};
 
-    System.out.println(calPoints(operations));
+    System.out.println(BaseballGame(operations));
 }
